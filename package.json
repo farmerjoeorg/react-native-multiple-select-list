@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/ataomega/react-native-multiple-select-list.git"
   },
-  "dependencies": {
-    "react-native-vector-icons": "^8.1.0"
-  },
   "keywords": [
     "react",
     "react-native",
@@ -35,5 +32,8 @@
   "bugs": {
     "url": "https://github.com/ataomega/react-native-multiple-select-list/issues"
   },
-  "homepage": "https://github.com/ataomega/react-native-multiple-select-list#readme"
+  "homepage": "https://github.com/ataomega/react-native-multiple-select-list#readme",
+  "dependencies": {
+    "@react-native-vector-icons/ionicons": "^12.3.0"
+  }
 }

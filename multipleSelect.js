@@ -13,8 +13,7 @@ import {
   ScrollView,
   TextInput
 } from 'react-native';
-var { width, height } = Dimensions.get('window');
-import Icon from 'react-native-vector-icons/Ionicons';
+import { Ionicons as Icon } from '@react-native-vector-icons/ionicons';
 
 export default class CustomMultiPicker extends Component {
   constructor(props){
